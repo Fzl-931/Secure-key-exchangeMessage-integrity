@@ -1,0 +1,6 @@
+{
+  "name": "CipherShield E2EE Secure Messaging",
+  "description": "End-to-end encrypted messaging application with user authentication, ECDH key exchange, AES-256-GCM encryption, digital signatures, and live message integrity tampering inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
